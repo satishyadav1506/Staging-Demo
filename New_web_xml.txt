@@ -166,10 +166,4 @@
      <error-code>405</error-code>
      <location>/resourceNotFound</location>
    </error-page>
- 
-   <error-page>
-     <error-code>500</error-code>
-     <location>/uncaughtException</location>
-   </error-page>
- 
  </web-app>
