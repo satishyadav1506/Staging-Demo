@@ -164,6 +164,6 @@
  
    <error-page>
      <error-code>405</error-code>
-     <location></location>
+     <location>Satish Kumar yadav</location>
    </error-page>
  </web-app>
