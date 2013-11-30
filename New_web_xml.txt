@@ -164,6 +164,6 @@
  
    <error-page>
      <error-code>405</error-code>
-     <location>/resourceNotFound</location>
+     <location></location>
    </error-page>
  </web-app>
